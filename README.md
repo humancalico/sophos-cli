@@ -1,6 +1,6 @@
 # `sophosd`
 
-Daemon for connecting to Sophos written in Rust.
+A CLI daemon written in Rust to connect to Sophos.
 
 # Installation and Usage
 
