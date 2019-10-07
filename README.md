@@ -13,3 +13,7 @@ Clone this repository
 `cd` to base directory where `Cargo.toml` is located and type:
 
 ```cargo run <username> <password> ```
+
+# License
+
+`sophosd` is under the MIT License. See the [LICENSE](./LICENSE) file for details.
